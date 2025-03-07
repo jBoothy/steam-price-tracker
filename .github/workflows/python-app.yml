@@ -1,9 +1,9 @@
-name: Run Scraper Every 6 Hours
+name: Run Scraper Every 1 Hour
 
 on:
   schedule:
     # - cron: "0 */6 * * *"  # Runs every 6 hours
-    - cron: "5 * * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   run_scraper:
