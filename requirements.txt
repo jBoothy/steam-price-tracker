@@ -1,0 +1,7 @@
+requests
+discord.py
+aiohttp
+matplotlib
+python-dotenv
+supabase
+dateutil
